@@ -1,0 +1,18 @@
+{
+  "name": "super_calculation",
+  "version": "0.0.1",
+  "description": "super calculations for only add/multiply category",
+  "main": "server.js",
+  "scripts": {
+    "chris": "node server.js"
+  },
+  "author": "christopher",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  }
+}
